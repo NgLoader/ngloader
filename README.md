@@ -6,7 +6,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&show_icons=true&theme=dracula)
 
-![GitHub stats](https://raw.githubusercontent.com/NgLoader/github-stats/master/generated/overview.svg?token=ADI534GWFAKZW7ZOUBXNIIDBA2OMW) ![Github stats](https://raw.githubusercontent.com/NgLoader/github-stats/master/generated/languages.svg?token=ADI534FXVF2VHQ6RXTR6LX3BA2OFM)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngloader&layout=compact&theme=dracula)
+
 <!--
 **NgLoader/ngloader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
