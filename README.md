@@ -7,7 +7,7 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NgLoader&api_domain=wakapi.wuffy.dev&bg_color=282a36&title_color=ff6e96&icon_color=2F855A&text_color=ffffff&custom_title=Since%20April%202023&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NgLoader&api_domain=wakapi.wuffy.dev&bg_color=282a36&title_color=ff6e96&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact" />
 </div>
 
 ---
