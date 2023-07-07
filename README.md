@@ -1,8 +1,11 @@
 ### Hi 👋
 - 🔭 I’m currently working on private and public repositories
 - 💬 Ask me about anything
-- 📫 How to reach me: mail@wuffy.eu
 - ⚡ Fun fact: First solve the problem, then write the code
+
+### Social Links:
+- Email: mail@wuffy.eu
+- Discord: NgLoader
 
 ---
 
