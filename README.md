@@ -58,5 +58,3 @@ YAML   0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░
 4. 🗣 Commented on [#297](https://github.com/Imprex-Development/orebfuscator/issues/297#issuecomment-1591515633) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
 5. 🗣 Commented on [#296](https://github.com/Imprex-Development/orebfuscator/issues/296#issuecomment-1591511630) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
 <!--END_SECTION:activity-->
-
----
