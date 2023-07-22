@@ -11,7 +11,7 @@
 <img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngloader&layout=compact&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 
 <!--
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-### Activity this week
+### Top 10 languages since April 2023
 
 <!--START_SECTION:waka-->
 
