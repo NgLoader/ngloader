@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ngloader/ngloader/blob/devcard/devcard.png" width="400" alt="NgLoader's Dev Card"/></a>
+<a href="https://wuffy.eu"><img src="https://github.com/ngloader/ngloader/blob/devcard/devcard.png" width="400" alt="NgLoader's Dev Card"/></a>
 
 ### Hi 👋
 - 🔭 I’m currently working on private and public repositories
@@ -7,7 +7,7 @@
 
 ### Social Links:
 - Email: mail@wuffy.eu
-- <img src="https://dcbadge.vercel.app/api/shield/NgLoader?theme=full-presence" />
+- <img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
 
 ---
 
