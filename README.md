@@ -11,7 +11,7 @@
 <img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngloader&layout=compact&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngloader&layout=compact&theme=dracula" />
 </div>
 
 <!--
