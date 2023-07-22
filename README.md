@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 
-```all_time
+```last_6_months
 Java   14 hrs 50 mins  ████████████████████████▒   97.82 %
 XML    0 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 YAML   0 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
