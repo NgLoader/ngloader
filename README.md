@@ -8,9 +8,13 @@
 - ⚡ Fun fact: First solve the problem, then write the code
 
 ### Social Links:
-- Email: mail@wuffy.eu
-- <img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
+<img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
 
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngloader&layout=compact&theme=dracula" />
+</div>
+
+<!--
 ---
 
 <div>
@@ -29,6 +33,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ngloader&column=8&theme=dracula&no-frame=true"/>
 </a>
+-->
 
 ---
 
