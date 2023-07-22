@@ -1,4 +1,6 @@
-<a href="https://wuffy.eu"><img src="https://github.com/ngloader/ngloader/blob/devcard/devcard.png" width="400" alt="NgLoader's Dev Card"/></a>
+<a href="https://wuffy.eu">
+  <img align="right" src="https://github.com/ngloader/ngloader/blob/devcard/devcard.png" height="200" width="200" alt="NgLoader's Dev Card"/>
+</a>
 
 ### Hi 👋
 - 🔭 I’m currently working on private and public repositories
