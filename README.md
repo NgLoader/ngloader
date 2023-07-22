@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ngloader/ngloader/blob/devcard/devcard.png" width="400" alt="NgLoader's Dev Card"/></a>
+
 ### Hi 👋
 - 🔭 I’m currently working on private and public repositories
 - 💬 Ask me about anything
@@ -5,7 +7,7 @@
 
 ### Social Links:
 - Email: mail@wuffy.eu
-- Discord: NgLoader
+- <img src="https://dcbadge.vercel.app/api/shield/NgLoader?theme=full-presence" />
 
 ---
 
@@ -25,3 +27,11 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ngloader&column=8&theme=dracula&no-frame=true"/>
 </a>
+
+---
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
