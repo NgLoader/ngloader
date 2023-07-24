@@ -4,6 +4,10 @@
 </a>
 -->
 
+<a href="https://wuffy.eu">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+</a>
+
 ### Hi 👋
 - 🔭 I’m currently working on private and public repositories
 - 💬 Ask me about anything
@@ -12,13 +16,6 @@
 ### Social Links:
 <a href="https://discord.gg/jUtRU5Q">
   <img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
-</a>
-
-</br>
-</br>
-</br>
-<a href="https://wuffy.eu">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 </a>
 
 <!--
