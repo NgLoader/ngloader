@@ -64,9 +64,9 @@ INI          0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1605785883) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-2. 🗣 Commented on [#297](https://github.com/Imprex-Development/orebfuscator/issues/297#issuecomment-1591785811) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-3. 🔒 Closed issue [#296](https://github.com/Imprex-Development/orebfuscator/issues/296) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-4. 🗣 Commented on [#297](https://github.com/Imprex-Development/orebfuscator/issues/297#issuecomment-1591515633) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-5. 🗣 Commented on [#296](https://github.com/Imprex-Development/orebfuscator/issues/296#issuecomment-1591511630) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+1. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1660822720) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+2. 🔒 Closed issue [#300](https://github.com/Imprex-Development/orebfuscator/issues/300) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+3. 🗣 Commented on [#304](https://github.com/Imprex-Development/orebfuscator/issues/304#issuecomment-1660801045) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+4. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1605785883) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+5. 🗣 Commented on [#297](https://github.com/Imprex-Development/orebfuscator/issues/297#issuecomment-1591785811) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
 <!--END_SECTION:activity-->
