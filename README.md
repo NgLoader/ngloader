@@ -64,9 +64,9 @@ INI          0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/parkervcp/eggs/issues/160#issuecomment-1664349963) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-2. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1660822720) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-3. 🔒 Closed issue [#300](https://github.com/Imprex-Development/orebfuscator/issues/300) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-4. 🗣 Commented on [#304](https://github.com/Imprex-Development/orebfuscator/issues/304#issuecomment-1660801045) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-5. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1605785883) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+1. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1670302065) in [highlight/highlight](https://github.com/highlight/highlight)
+2. 🗣 Commented on [#5093](https://github.com/highlight/highlight/pull/5093#issuecomment-1670293121) in [highlight/highlight](https://github.com/highlight/highlight)
+3. 🗣 Commented on [#160](https://github.com/parkervcp/eggs/issues/160#issuecomment-1664349963) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+4. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1660822720) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+5. 🔒 Closed issue [#300](https://github.com/Imprex-Development/orebfuscator/issues/300) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
 <!--END_SECTION:activity-->
