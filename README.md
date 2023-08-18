@@ -64,9 +64,9 @@ unknown      0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#517](https://github.com/modrinth/theseus/issues/517#issuecomment-1676043730) in [modrinth/theseus](https://github.com/modrinth/theseus)
-2. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1670302065) in [highlight/highlight](https://github.com/highlight/highlight)
-3. 🗣 Commented on [#5093](https://github.com/highlight/highlight/pull/5093#issuecomment-1670293121) in [highlight/highlight](https://github.com/highlight/highlight)
-4. 🗣 Commented on [#160](https://github.com/parkervcp/eggs/issues/160#issuecomment-1664349963) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-5. 🗣 Commented on [#300](https://github.com/Imprex-Development/orebfuscator/issues/300#issuecomment-1660822720) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+1. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1682811575) in [highlight/highlight](https://github.com/highlight/highlight)
+2. 🗣 Commented on [#517](https://github.com/modrinth/theseus/issues/517#issuecomment-1676043730) in [modrinth/theseus](https://github.com/modrinth/theseus)
+3. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1670302065) in [highlight/highlight](https://github.com/highlight/highlight)
+4. 🗣 Commented on [#5093](https://github.com/highlight/highlight/pull/5093#issuecomment-1670293121) in [highlight/highlight](https://github.com/highlight/highlight)
+5. 🗣 Commented on [#160](https://github.com/parkervcp/eggs/issues/160#issuecomment-1664349963) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
 <!--END_SECTION:activity-->
