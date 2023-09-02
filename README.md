@@ -64,9 +64,9 @@ unknown      0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1693534922) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-2. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1692047105) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-3. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1690624537) in [highlight/highlight](https://github.com/highlight/highlight)
-4. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1682811575) in [highlight/highlight](https://github.com/highlight/highlight)
-5. 🗣 Commented on [#517](https://github.com/modrinth/theseus/issues/517#issuecomment-1676043730) in [modrinth/theseus](https://github.com/modrinth/theseus)
+1. 🗣 Commented on [#304](https://github.com/Imprex-Development/orebfuscator/issues/304#issuecomment-1703338383) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+2. 🔒 Closed issue [#304](https://github.com/Imprex-Development/orebfuscator/issues/304) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+3. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1693534922) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+4. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1692047105) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+5. 🗣 Commented on [#5286](https://github.com/highlight/highlight/pull/5286#issuecomment-1690624537) in [highlight/highlight](https://github.com/highlight/highlight)
 <!--END_SECTION:activity-->
