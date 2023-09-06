@@ -64,9 +64,9 @@ unknown      0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/Imprex-Development/orebfuscator/issues/314#issuecomment-1703886213) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-2. 🗣 Commented on [#304](https://github.com/Imprex-Development/orebfuscator/issues/304#issuecomment-1703338383) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-3. 🔒 Closed issue [#304](https://github.com/Imprex-Development/orebfuscator/issues/304) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-4. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1693534922) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-5. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1692047105) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+1. 🎉 Merged PR [#1](https://github.com/NgLoader/ngloader/pull/1) in [NgLoader/ngloader](https://github.com/NgLoader/ngloader)
+2. 🗣 Commented on [#314](https://github.com/Imprex-Development/orebfuscator/issues/314#issuecomment-1703886213) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+3. 🗣 Commented on [#304](https://github.com/Imprex-Development/orebfuscator/issues/304#issuecomment-1703338383) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+4. 🔒 Closed issue [#304](https://github.com/Imprex-Development/orebfuscator/issues/304) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+5. 🗣 Commented on [#312](https://github.com/Imprex-Development/orebfuscator/issues/312#issuecomment-1693534922) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
 <!--END_SECTION:activity-->
