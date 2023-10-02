@@ -66,9 +66,9 @@ unknown        0 hrs 17 mins   ░░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1937](https://github.com/benphelps/homepage/issues/1937) in [benphelps/homepage](https://github.com/benphelps/homepage)
-2. 💪 Opened PR [#1936](https://github.com/benphelps/homepage/pull/1936) in [benphelps/homepage](https://github.com/benphelps/homepage)
-3. 🗣 Commented on [#6541](https://github.com/highlight/highlight/pull/6541#issuecomment-1709201164) in [highlight/highlight](https://github.com/highlight/highlight)
-4. 💪 Opened PR [#6541](https://github.com/highlight/highlight/pull/6541) in [highlight/highlight](https://github.com/highlight/highlight)
-5. 🎉 Merged PR [#1](https://github.com/NgLoader/ngloader/pull/1) in [NgLoader/ngloader](https://github.com/NgLoader/ngloader)
+1. 🎉 Merged PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+2. 💪 Opened PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+3. ❗ Opened issue [#1937](https://github.com/benphelps/homepage/issues/1937) in [benphelps/homepage](https://github.com/benphelps/homepage)
+4. 💪 Opened PR [#1936](https://github.com/benphelps/homepage/pull/1936) in [benphelps/homepage](https://github.com/benphelps/homepage)
+5. 🗣 Commented on [#6541](https://github.com/highlight/highlight/pull/6541#issuecomment-1709201164) in [highlight/highlight](https://github.com/highlight/highlight)
 <!--END_SECTION:activity-->
