@@ -66,9 +66,9 @@ Markdown         0 hrs 20 mins   ░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-2. 💪 Opened PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-3. ❗ Opened issue [#1937](https://github.com/benphelps/homepage/issues/1937) in [benphelps/homepage](https://github.com/benphelps/homepage)
-4. 💪 Opened PR [#1936](https://github.com/benphelps/homepage/pull/1936) in [benphelps/homepage](https://github.com/benphelps/homepage)
-5. 🗣 Commented on [#6541](https://github.com/highlight/highlight/pull/6541#issuecomment-1709201164) in [highlight/highlight](https://github.com/highlight/highlight)
+1. 🎉 Merged PR [#2](https://github.com/NgLoader/ngloader/pull/2) in [NgLoader/ngloader](https://github.com/NgLoader/ngloader)
+2. 🎉 Merged PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+3. 💪 Opened PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+4. ❗ Opened issue [#1937](https://github.com/benphelps/homepage/issues/1937) in [benphelps/homepage](https://github.com/benphelps/homepage)
+5. 💪 Opened PR [#1936](https://github.com/benphelps/homepage/pull/1936) in [benphelps/homepage](https://github.com/benphelps/homepage)
 <!--END_SECTION:activity-->
