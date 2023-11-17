@@ -46,9 +46,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 205 hrs 28 mins
+Total Time: 205 hrs 26 mins
 
-Java             130 hrs 59 mins ████████████████░░░░░░░░░   63.74 %
+Java             130 hrs 57 mins ████████████████░░░░░░░░░   63.74 %
 SCSS             23 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
 HTML             18 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 TypeScript       18 hrs 40 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
