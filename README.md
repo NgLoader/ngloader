@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 216 hrs 29 mins
+Total Time: 216 hrs 27 mins
 
-Java             141 hrs 50 mins ████████████████▒░░░░░░░░   65.51 %
+Java             141 hrs 48 mins ████████████████▒░░░░░░░░   65.51 %
 SCSS             23 hrs 51 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
 HTML             18 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-TypeScript       18 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+TypeScript       18 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 XML              3 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 Ezhil            2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 JSON             1 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
