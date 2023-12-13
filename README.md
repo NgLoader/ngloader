@@ -66,9 +66,9 @@ YAML             1 hrs 13 mins   ░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NgLoader/ngloader/pull/3) in [NgLoader/ngloader](https://github.com/NgLoader/ngloader)
-2. 🎉 Merged PR [#2](https://github.com/NgLoader/ngloader/pull/2) in [NgLoader/ngloader](https://github.com/NgLoader/ngloader)
-3. 🎉 Merged PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-4. 💪 Opened PR [#10](https://github.com/Imprex-Development/zero-inventory-problems/pull/10) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-5. ❗ Opened issue [#1937](https://github.com/benphelps/homepage/issues/1937) in [benphelps/homepage](https://github.com/benphelps/homepage)
+1. 🎉 Merged PR [#2](https://github.com/NgLoader/webpack-webmanifest-loader/pull/2) in [NgLoader/webpack-webmanifest-loader](https://github.com/NgLoader/webpack-webmanifest-loader)
+2. 💪 Opened PR [#2](https://github.com/NgLoader/webpack-webmanifest-loader/pull/2) in [NgLoader/webpack-webmanifest-loader](https://github.com/NgLoader/webpack-webmanifest-loader)
+3. 🎉 Merged PR [#1](https://github.com/NgLoader/webpack-webmanifest-loader/pull/1) in [NgLoader/webpack-webmanifest-loader](https://github.com/NgLoader/webpack-webmanifest-loader)
+4. 💪 Opened PR [#1](https://github.com/NgLoader/webpack-webmanifest-loader/pull/1) in [NgLoader/webpack-webmanifest-loader](https://github.com/NgLoader/webpack-webmanifest-loader)
+5. 🎉 Merged PR [#3](https://github.com/NgLoader/ngloader/pull/3) in [NgLoader/ngloader](https://github.com/NgLoader/ngloader)
 <!--END_SECTION:activity-->
