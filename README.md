@@ -66,9 +66,9 @@ TSX              1 hrs 21 mins   ░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/Imprex-Development/orebfuscator/issues/342#issuecomment-1871653009) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-2. 🗣 Commented on [#13](https://github.com/Imprex-Development/zero-inventory-problems/issues/13#issuecomment-1871651492) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-3. 🔒 Closed issue [#11](https://github.com/Imprex-Development/zero-inventory-problems/issues/11) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-4. 🎉 Merged PR [#16](https://github.com/Imprex-Development/zero-inventory-problems/pull/16) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-5. 💪 Opened PR [#16](https://github.com/Imprex-Development/zero-inventory-problems/pull/16) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+1. 🗣 Commented on [#14](https://github.com/Imprex-Development/zero-inventory-problems/issues/14#issuecomment-1872210592) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+2. 🗣 Commented on [#343](https://github.com/Imprex-Development/orebfuscator/issues/343#issuecomment-1872113035) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+3. 🔒 Closed issue [#17](https://github.com/Imprex-Development/zero-inventory-problems/issues/17) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+4. 🎉 Merged PR [#18](https://github.com/Imprex-Development/zero-inventory-problems/pull/18) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+5. 💪 Opened PR [#18](https://github.com/Imprex-Development/zero-inventory-problems/pull/18) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
 <!--END_SECTION:activity-->
