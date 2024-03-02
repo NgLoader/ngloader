@@ -66,9 +66,9 @@ Ezhil            2 hrs 6 mins    ░░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/Imprex-Development/orebfuscator/issues/357#issuecomment-1948782311) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-2. 🗣 Commented on [#354](https://github.com/Imprex-Development/orebfuscator/issues/354#issuecomment-1946690988) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-3. 🗣 Commented on [#355](https://github.com/Imprex-Development/orebfuscator/issues/355#issuecomment-1946652155) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-4. 🗣 Commented on [#353](https://github.com/Imprex-Development/orebfuscator/issues/353#issuecomment-1937006950) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-5. 🗣 Commented on [#346](https://github.com/Imprex-Development/orebfuscator/issues/346#issuecomment-1913349537) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+1. 🎉 Merged PR [#3](https://github.com/Imprex-Development/imprex-testsuite/pull/3) in [Imprex-Development/imprex-testsuite](https://github.com/Imprex-Development/imprex-testsuite)
+2. 💪 Opened PR [#3](https://github.com/Imprex-Development/imprex-testsuite/pull/3) in [Imprex-Development/imprex-testsuite](https://github.com/Imprex-Development/imprex-testsuite)
+3. 🎉 Merged PR [#1](https://github.com/Imprex-Development/imprex-testsuite/pull/1) in [Imprex-Development/imprex-testsuite](https://github.com/Imprex-Development/imprex-testsuite)
+4. 💪 Opened PR [#2](https://github.com/Imprex-Development/imprex-testsuite/pull/2) in [Imprex-Development/imprex-testsuite](https://github.com/Imprex-Development/imprex-testsuite)
+5. 💪 Opened PR [#1](https://github.com/Imprex-Development/imprex-testsuite/pull/1) in [Imprex-Development/imprex-testsuite](https://github.com/Imprex-Development/imprex-testsuite)
 <!--END_SECTION:activity-->
