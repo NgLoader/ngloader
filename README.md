@@ -5,7 +5,7 @@
 -->
 
 <a href="https://wuffy.eu">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&theme=dracula" />
 </a>
 
 ### Hi 👋
