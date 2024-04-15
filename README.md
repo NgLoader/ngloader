@@ -66,9 +66,9 @@ YAML              3 hrs 55 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Imprex-Development/zero-inventory-problems/issues/19#issuecomment-2016230310) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-2. 🔒 Closed issue [#19](https://github.com/Imprex-Development/zero-inventory-problems/issues/19) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-3. 🎉 Merged PR [#20](https://github.com/Imprex-Development/zero-inventory-problems/pull/20) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-4. 🗣 Commented on [#19](https://github.com/Imprex-Development/zero-inventory-problems/issues/19#issuecomment-2016196032) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-5. 💪 Opened PR [#20](https://github.com/Imprex-Development/zero-inventory-problems/pull/20) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+1. 🗣 Commented on [#1](https://github.com/LEASYSTEMS/bubatzkarte-app-issues/issues/1#issuecomment-2054195311) in [LEASYSTEMS/bubatzkarte-app-issues](https://github.com/LEASYSTEMS/bubatzkarte-app-issues)
+2. 🗣 Commented on [#1](https://github.com/LEASYSTEMS/bubatzkarte-app-issues/issues/1#issuecomment-2054194180) in [LEASYSTEMS/bubatzkarte-app-issues](https://github.com/LEASYSTEMS/bubatzkarte-app-issues)
+3. 🗣 Commented on [#19](https://github.com/Imprex-Development/zero-inventory-problems/issues/19#issuecomment-2016230310) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+4. 🔒 Closed issue [#19](https://github.com/Imprex-Development/zero-inventory-problems/issues/19) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+5. 🎉 Merged PR [#20](https://github.com/Imprex-Development/zero-inventory-problems/pull/20) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
 <!--END_SECTION:activity-->
