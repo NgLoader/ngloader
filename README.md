@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 600 hrs 49 mins
+Total Time: 600 hrs 48 mins
 
 Java              220 hrs 16 mins █████████░░░░░░░░░░░░░░░░   36.66 %
 TypeScript        130 hrs 33 mins █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
