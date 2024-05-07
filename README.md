@@ -15,7 +15,7 @@
 
 ### Social Links:
 <a href="https://discord.gg/jUtRU5Q">
-  <img src="https://dcbadge.vercel.app/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
+  <img src="https://dcbadge.limes.pink/api/shield/128286216708685824?style=flat&theme=clean&compact=true" />
 </a>
 
 <!--
