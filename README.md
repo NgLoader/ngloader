@@ -66,9 +66,9 @@ JavaScript        5 hrs 48 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/NgLoader/klassifizierung-tool/issues/7) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
-2. ❗ Opened issue [#6](https://github.com/NgLoader/klassifizierung-tool/issues/6) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
-3. ❗ Opened issue [#5](https://github.com/NgLoader/klassifizierung-tool/issues/5) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
-4. ❗ Opened issue [#4](https://github.com/NgLoader/klassifizierung-tool/issues/4) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
-5. ❗ Opened issue [#3](https://github.com/NgLoader/klassifizierung-tool/issues/3) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+1. 💪 Opened PR [#8](https://github.com/NgLoader/klassifizierung-tool/pull/8) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+2. 💪 Opened PR [#8541](https://github.com/highlight/highlight/pull/8541) in [highlight/highlight](https://github.com/highlight/highlight)
+3. ❗ Opened issue [#7](https://github.com/NgLoader/klassifizierung-tool/issues/7) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+4. ❗ Opened issue [#6](https://github.com/NgLoader/klassifizierung-tool/issues/6) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+5. ❗ Opened issue [#5](https://github.com/NgLoader/klassifizierung-tool/issues/5) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
 <!--END_SECTION:activity-->
