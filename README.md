@@ -66,9 +66,9 @@ JavaScript        5 hrs 48 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8541](https://github.com/highlight/highlight/pull/8541#issuecomment-2117972341) in [highlight/highlight](https://github.com/highlight/highlight)
-2. 🗣 Commented on [#8541](https://github.com/highlight/highlight/pull/8541#issuecomment-2109030125) in [highlight/highlight](https://github.com/highlight/highlight)
-3. 💪 Opened PR [#8](https://github.com/NgLoader/klassifizierung-tool/pull/8) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
-4. 💪 Opened PR [#8541](https://github.com/highlight/highlight/pull/8541) in [highlight/highlight](https://github.com/highlight/highlight)
-5. ❗ Opened issue [#7](https://github.com/NgLoader/klassifizierung-tool/issues/7) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+1. 🗣 Commented on [#373](https://github.com/Imprex-Development/orebfuscator/issues/373#issuecomment-2133646461) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+2. 🗣 Commented on [#8541](https://github.com/highlight/highlight/pull/8541#issuecomment-2117972341) in [highlight/highlight](https://github.com/highlight/highlight)
+3. 🗣 Commented on [#8541](https://github.com/highlight/highlight/pull/8541#issuecomment-2109030125) in [highlight/highlight](https://github.com/highlight/highlight)
+4. 💪 Opened PR [#8](https://github.com/NgLoader/klassifizierung-tool/pull/8) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+5. 💪 Opened PR [#8541](https://github.com/highlight/highlight/pull/8541) in [highlight/highlight](https://github.com/highlight/highlight)
 <!--END_SECTION:activity-->
