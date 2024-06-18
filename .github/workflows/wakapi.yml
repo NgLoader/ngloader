@@ -13,10 +13,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # wakatime
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakapi.wuffy.dev/api
-          # content
+          ### meta
+          API_BASE_URL: https://wakapi.wuffy.dev/api/compat/wakatime
+          ### content
           SHOW_TITLE: false
           SECTION_NAME: waka
           TIME_RANGE: all_time
@@ -26,5 +26,5 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          # commit
+          ### commit
           COMMIT_MESSAGE: "chore: update wakapi graphs"
