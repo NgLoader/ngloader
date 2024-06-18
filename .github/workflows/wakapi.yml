@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakapi.wuffy.dev/api/compat/wakatime
+          API_BASE_URL: ${{ secrets.WAKATIME_URL }}
           # content
           SHOW_TITLE: false
           SECTION_NAME: waka
