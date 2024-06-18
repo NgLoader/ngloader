@@ -66,9 +66,9 @@ JavaScript        5 hrs 48 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/Imprex-Development/orebfuscator/issues/375#issuecomment-2161786483) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-2. ❗ Opened issue [#4](https://github.com/NgLoader/Discord-referee/issues/4) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
-3. 🎉 Merged PR [#3](https://github.com/NgLoader/Discord-referee/pull/3) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
-4. 💪 Opened PR [#3](https://github.com/NgLoader/Discord-referee/pull/3) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
-5. 🎉 Merged PR [#2](https://github.com/NgLoader/Discord-referee/pull/2) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
+1. 🎉 Merged PR [#5](https://github.com/NgLoader/Discord-referee/pull/5) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
+2. 💪 Opened PR [#5](https://github.com/NgLoader/Discord-referee/pull/5) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
+3. 🗣 Commented on [#375](https://github.com/Imprex-Development/orebfuscator/issues/375#issuecomment-2161786483) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
+4. ❗ Opened issue [#4](https://github.com/NgLoader/Discord-referee/issues/4) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
+5. 🎉 Merged PR [#3](https://github.com/NgLoader/Discord-referee/pull/3) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
 <!--END_SECTION:activity-->
