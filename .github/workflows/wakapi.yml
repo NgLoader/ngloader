@@ -12,8 +12,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # wakatime
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakapi.wuffy.dev/api
+          API_BASE_URL: ${{ secrets.WAKATIME_URL }}
           # content
           SHOW_TITLE: false
           SECTION_NAME: waka
