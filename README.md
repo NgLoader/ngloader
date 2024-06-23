@@ -66,9 +66,9 @@ JavaScript        5 hrs 48 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Imprex-Development/zero-inventory-problems/pull/26) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-2. 💪 Opened PR [#26](https://github.com/Imprex-Development/zero-inventory-problems/pull/26) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-3. 🎉 Merged PR [#25](https://github.com/Imprex-Development/zero-inventory-problems/pull/25) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-4. 💪 Opened PR [#25](https://github.com/Imprex-Development/zero-inventory-problems/pull/25) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-5. 🎉 Merged PR [#5](https://github.com/NgLoader/Discord-referee/pull/5) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
+1. 💪 Opened PR [#5](https://github.com/Imprex-Development/imprex-testsuite/pull/5) in [Imprex-Development/imprex-testsuite](https://github.com/Imprex-Development/imprex-testsuite)
+2. 🎉 Merged PR [#26](https://github.com/Imprex-Development/zero-inventory-problems/pull/26) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+3. 💪 Opened PR [#26](https://github.com/Imprex-Development/zero-inventory-problems/pull/26) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+4. 🎉 Merged PR [#25](https://github.com/Imprex-Development/zero-inventory-problems/pull/25) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+5. 💪 Opened PR [#25](https://github.com/Imprex-Development/zero-inventory-problems/pull/25) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
 <!--END_SECTION:activity-->
