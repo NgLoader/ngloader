@@ -66,9 +66,9 @@ JavaScript        5 hrs 53 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Imprex-Development/zero-inventory-problems/pull/30) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-2. 🔒 Closed issue [#29](https://github.com/Imprex-Development/zero-inventory-problems/issues/29) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-3. 💪 Opened PR [#30](https://github.com/Imprex-Development/zero-inventory-problems/pull/30) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-4. ❗ Opened issue [#29](https://github.com/Imprex-Development/zero-inventory-problems/issues/29) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-5. 🔒 Closed issue [#27](https://github.com/Imprex-Development/zero-inventory-problems/issues/27) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+1. 🎉 Merged PR [#2](https://github.com/NgLoader/eggs/pull/2) in [NgLoader/eggs](https://github.com/NgLoader/eggs)
+2. 💪 Opened PR [#2](https://github.com/NgLoader/eggs/pull/2) in [NgLoader/eggs](https://github.com/NgLoader/eggs)
+3. 🎉 Merged PR [#30](https://github.com/Imprex-Development/zero-inventory-problems/pull/30) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+4. 🔒 Closed issue [#29](https://github.com/Imprex-Development/zero-inventory-problems/issues/29) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+5. 💪 Opened PR [#30](https://github.com/Imprex-Development/zero-inventory-problems/pull/30) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
 <!--END_SECTION:activity-->
