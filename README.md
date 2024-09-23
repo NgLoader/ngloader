@@ -66,9 +66,9 @@ JavaScript        8 hrs 18 mins   ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/Imprex-Development/zero-inventory-problems/issues/33#issuecomment-2359368714) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
-2. 🗣 Commented on [#385](https://github.com/Imprex-Development/orebfuscator/issues/385#issuecomment-2250248088) in [Imprex-Development/orebfuscator](https://github.com/Imprex-Development/orebfuscator)
-3. 🔒 Closed issue [#4](https://github.com/NgLoader/Discord-referee/issues/4) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
-4. 🎉 Merged PR [#9](https://github.com/NgLoader/Discord-referee/pull/9) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
-5. 💪 Opened PR [#9](https://github.com/NgLoader/Discord-referee/pull/9) in [NgLoader/Discord-referee](https://github.com/NgLoader/Discord-referee)
+1. 🗣 Commented on [#33](https://github.com/Imprex-Development/zero-inventory-problems/issues/33#issuecomment-2366786793) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+2. 🔒 Closed issue [#33](https://github.com/Imprex-Development/zero-inventory-problems/issues/33) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+3. 🎉 Merged PR [#34](https://github.com/Imprex-Development/zero-inventory-problems/pull/34) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+4. 🗣 Commented on [#33](https://github.com/Imprex-Development/zero-inventory-problems/issues/33#issuecomment-2366755510) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+5. 💪 Opened PR [#34](https://github.com/Imprex-Development/zero-inventory-problems/pull/34) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
 <!--END_SECTION:activity-->
