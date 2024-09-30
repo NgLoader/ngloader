@@ -66,9 +66,9 @@ JavaScript        9 hrs 9 mins    ▒░░░░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/LEASYSTEMS/bubatzkarte-issues/issues/1#issuecomment-2380774153) in [LEASYSTEMS/bubatzkarte-issues](https://github.com/LEASYSTEMS/bubatzkarte-issues)
-2. 🔒 Closed issue [#1](https://github.com/LEASYSTEMS/bubatzkarte-issues/issues/1) in [LEASYSTEMS/bubatzkarte-issues](https://github.com/LEASYSTEMS/bubatzkarte-issues)
-3. 🗣 Commented on [#2](https://github.com/LEASYSTEMS/bubatzkarte-issues/issues/2#issuecomment-2380769282) in [LEASYSTEMS/bubatzkarte-issues](https://github.com/LEASYSTEMS/bubatzkarte-issues)
-4. 💪 Opened PR [#200](https://github.com/taginfo/taginfo-projects/pull/200) in [taginfo/taginfo-projects](https://github.com/taginfo/taginfo-projects)
-5. 🗣 Commented on [#33](https://github.com/Imprex-Development/zero-inventory-problems/issues/33#issuecomment-2366786793) in [Imprex-Development/zero-inventory-problems](https://github.com/Imprex-Development/zero-inventory-problems)
+1. 🗣 Commented on [#200](https://github.com/taginfo/taginfo-projects/pull/200#issuecomment-2381442714) in [taginfo/taginfo-projects](https://github.com/taginfo/taginfo-projects)
+2. 🎉 Merged PR [#9](https://github.com/NgLoader/klassifizierung-tool/pull/9) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+3. 🗣 Commented on [#9](https://github.com/NgLoader/klassifizierung-tool/pull/9#issuecomment-2381303710) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
+4. 🗣 Commented on [#1](https://github.com/LEASYSTEMS/bubatzkarte-issues/issues/1#issuecomment-2380774153) in [LEASYSTEMS/bubatzkarte-issues](https://github.com/LEASYSTEMS/bubatzkarte-issues)
+5. 🔒 Closed issue [#1](https://github.com/LEASYSTEMS/bubatzkarte-issues/issues/1) in [LEASYSTEMS/bubatzkarte-issues](https://github.com/LEASYSTEMS/bubatzkarte-issues)
 <!--END_SECTION:activity-->
