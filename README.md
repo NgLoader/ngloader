@@ -20,6 +20,10 @@
 
 ---
 
+<!---
+Icons: https://simpleicons.org/
+https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICON}&logoColor=white
+--->
 ### Languages, Frameworks and Databases...
 <p align="center">
   <!--- Languages --->
@@ -43,6 +47,10 @@
   <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno JS">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/XCode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=unrealEngine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
 </p>
@@ -67,6 +75,7 @@
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
+  <img src="https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
 </p>
 
 <p align="center">
