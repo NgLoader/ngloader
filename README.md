@@ -24,7 +24,7 @@
 Icons: https://simpleicons.org/
 https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICON}&logoColor=white
 --->
-### Languages, Frameworks and Databases...
+<h3 align="center">Languages, Frameworks and Databases...</h3>
 <p align="center">
   <!--- Languages --->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -63,7 +63,9 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### Tools and Platforms...
+---
+
+<h3 align="center">Tools and Platforms...</h3>
 <p align="center">
   <!--- Platforms --->
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
@@ -136,7 +138,7 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
 
 ---
 
-### Top 10 languages since April 2023
+<h3 align="center">Top 10 languages since April 2023</h3>
 
 <!--START_SECTION:waka-->
 
@@ -159,7 +161,8 @@ JavaScript        9 hrs 9 mins    ▒░░░░░░░░░░░░░░�
 
 ---
 
-### :zap: Recent Activity
+<h3 align="center">:zap: Recent Activity</h3>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#200](https://github.com/taginfo/taginfo-projects/pull/200#issuecomment-2381442714) in [taginfo/taginfo-projects](https://github.com/taginfo/taginfo-projects)
 2. 🎉 Merged PR [#9](https://github.com/NgLoader/klassifizierung-tool/pull/9) in [NgLoader/klassifizierung-tool](https://github.com/NgLoader/klassifizierung-tool)
