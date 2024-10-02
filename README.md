@@ -73,7 +73,7 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sentry-212830.svg?style=for-the-badge&logo=sentry&logoColor=362D59" alt="Sentry">
+  <img src="https://img.shields.io/badge/Sentry-212830.svg?style=for-the-badge&logo=sentry&logoColor=fff" alt="Sentry">
   <img src="https://img.shields.io/badge/grafana-212830.svg?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana">
   <img src="https://img.shields.io/badge/figma-212830.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
   <img src="https://img.shields.io/badge/Trello-212830.svg?style=for-the-badge&logo=Trello&logoColor=026AA7" alt="Trello">
@@ -97,6 +97,7 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
   <img src="https://img.shields.io/badge/github%20actions-212830.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/gitlab-212830.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab">
   <img src="https://img.shields.io/badge/gitlab%20CI-212830.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab CI">
+  <img src="https://img.shields.io/badge/bitbucket-212830.svg?style=for-the-badge&logo=bitbucket&logoColor=0047b3" alt="BitBucket">
 </p>
 
 <p align="center">
