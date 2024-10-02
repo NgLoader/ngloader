@@ -1,13 +1,3 @@
-<!--
-<a href="https://wuffy.eu">
-  <img align="right" src="https://github.com/ngloader/ngloader/blob/devcard/devcard.png" height="410" width="300" alt="NgLoader's Dev Card"/>
-</a>
--->
-
-<a href="https://wuffy.eu">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&hide_rank=true&theme=dracula" />
-</a>
-
 ### Hi 👋
 - 🔭 I’m currently working on [Bubatzkarte.app](https://Bubatzkarte.app)
 - 🌱 Information Technician Master Student
@@ -40,7 +30,6 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
 <p align="center">
   <!--- Databases --->
   <img src="https://img.shields.io/badge/redis-3d444d.svg?style=for-the-badge&logo=redis&logoColor=DD0031" alt="Redis">
-  <img src="https://img.shields.io/badge/mysql-3d444d.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
   <img src="https://img.shields.io/badge/MariaDB-3d444d?style=for-the-badge&logo=mariadb&logoColor=003545" alt="MariaDB">
   <img src="https://img.shields.io/badge/MongoDB-3d444d?style=for-the-badge&logo=mongodb&logoColor=4ea94b" alt="MongoDB">
 </p>
@@ -48,11 +37,6 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
 ---
 
 <h3 align="center">Tools and Platforms...</h3>
-<p align="center">
-  <!--- Platforms --->
-  <img src="https://img.shields.io/badge/Cloudflare-3d444d?style=for-the-badge&logo=Cloudflare&logoColor=F38020" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/ovh-3d444d.svg?style=for-the-badge&logo=ovh&logoColor=123F6D" alt="OVH">
-</p>
 <p align="center">
   <!--- Tools --->
   <img src="https://img.shields.io/badge/Android%20Studio-3d444d.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio">
@@ -69,24 +53,3 @@ https://img.shields.io/badge/${NAME}-${COLOR}.svg?style=for-the-badge&logo=${ICO
   <img src="https://img.shields.io/badge/cisco-3d444d.svg?style=for-the-badge&logo=cisco&logoColor=%23049fd9" alt="Cisco">
   <img src="https://img.shields.io/badge/ubiquiti-3d444d.svg?style=for-the-badge&logo=ubiquiti&logoColor=%230559C9" alt="Ubiquiti">
 </p>
-
-<!--
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NgLoader&api_domain=wakapi.wuffy.dev&bg_color=3d444d&title_color=ff6e96&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact" />
-</div>
-
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ngloader&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngloader&layout=compact&theme=dracula" />
-</div>
-
----
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ngloader&column=8&theme=dracula&no-frame=true"/>
-</a>
--->
