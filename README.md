@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently working on [Bubatzkarte.app](https://Bubatzkarte.app)
-- 🌱 Information Technician Master Student
+- 🌱 [Informationstechnikermeister](https://www.bfe.de/seminare/details.xhtml?id=830006806)
 - 📫 How to reach me mail@wuffy.eu
 
 ### Social Links:
